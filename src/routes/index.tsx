@@ -222,7 +222,8 @@ function Index() {
               <span className="text-[10px] uppercase tracking-widest text-foreground">
                 Studio
               </span>
-              <p>Zurich / London</p>
+              <p>Bengaluru</p>
+              {/* To change the email address, edit both this mailto link and the visible text below. */}
               <a href="mailto:hello@vantage.studio" className="hover:text-foreground">
                 hello@vantage.studio
               </a>
@@ -231,16 +232,14 @@ function Index() {
               <span className="text-[10px] uppercase tracking-widest text-foreground">
                 Social
               </span>
+              {/* When you create an Instagram, replace href="#" with your profile URL, e.g. href="https://instagram.com/yourhandle" */}
               <a href="#" className="hover:text-foreground">
                 Instagram
-              </a>
-              <a href="#" className="hover:text-foreground">
-                Behance
               </a>
             </div>
           </div>
           <div className="md:text-right">
-            <p>© 2024 Vantage Creative Studio.</p>
+            <p>© 2026 Vantage Creative Studio.</p>
             <p className="opacity-50">All Rights Reserved.</p>
           </div>
         </div>
