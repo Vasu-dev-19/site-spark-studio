@@ -1,3 +1,3 @@
 # Site Spark Studio
 
-make a website that offers website making services
+A website that offers website making services~
